@@ -5,7 +5,7 @@ AI Enabled Regional Legal Translator is a Natural Language Processing (NLP) base
 
 ### Home Page
 
-![Home Page](images/ui_home_page.png)
+![Home Page](images/ui_home_page.jpg)
 
 ### Legal Translation Output
 
