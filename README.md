@@ -29,15 +29,15 @@ AI Enabled Regional Legal Translator is a Natural Language Processing based syst
 
 ### Home Page
 
-![Home Page](screenshots/home_page.png)
+![Home Page](images/ui_home_page.png)
 
 ### Translation Output
 
-![Translation](screenshots/translation_output.png)
+![Translation](images/legal_translation_output.png)
 
 ### Speech Generation
 
-![Speech](screenshots/speech_output.png)
+![Speech](images/kannada_speech_output.png)
 
 ## Installation
 
